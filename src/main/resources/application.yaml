@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: car-service
+
+  profiles:
+    active: store1
+
+#debug: true

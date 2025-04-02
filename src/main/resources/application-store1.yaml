@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: car-service
+
+reference-data:
+  engineTypes: бензиновий, дизельний, гібридний
+  fuels:
+    - name: дизель
+      types: зимовий, літній, арктичний
+    - name: бензин
+      types: A-95, A-98, A-100
+    - name: електрика
+      types: []
